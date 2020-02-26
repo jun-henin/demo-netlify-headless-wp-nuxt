@@ -1,4 +1,6 @@
-const siteURL = "https://css-tricks.com"
+// const siteURL = "https://css-tricks.com"
+const siteURL = "http://efood.eurasiafoodcoin.com/"
+
 
 export const state = () => ({
   posts: [],
